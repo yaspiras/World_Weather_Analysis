@@ -1,18 +1,22 @@
 # World_Weather_Analysis
 Collect the Data
 
-Use the NumPy module to generate more than 1,500 random latitudes and longitudes.
-Use the citipy module to list the nearest city to the latitudes and longitudes.
-Use the OpenWeatherMap API to request the current weather data from each unique city in your list.
-Parse the JSON data from the API request.
-Collect the following data from the JSON file and add it to a DataFrame:
-City, country, and date
-Latitude and longitude
-Maximum temperature
-Humidity
-Cloudiness
-Wind speed
-Exploratory Analysis with Visualization
+* Use the NumPy module to generate more than 1,500 random latitudes and longitudes.
+* Use the citipy module to list the nearest city to the latitudes and longitudes.
+* Use the OpenWeatherMap API to request the current weather data from each unique city in your list.
+* Parse the JSON data from the API request.
+* Collect the following data from the JSON file and add it to a DataFrame:
+    1) City, country, and date
+    2) Latitude and longitude
+    3) Maximum temperature
+    4) Humidity
+    5) Cloudiness
+    6) Wind speed
+    7) Exploratory Analysis with Visualization
+
+
+
+
 
 Create scatter plots of the weather data for the following comparisons:
 Latitude versus temperature
