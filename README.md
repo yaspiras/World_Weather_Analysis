@@ -1,5 +1,6 @@
 # World_Weather_Analysis
-Collect the Data
+
+## A. Collect the Data
 
 * Use the NumPy module to generate more than 1,500 random latitudes and longitudes.
 * Use the citipy module to list the nearest city to the latitudes and longitudes.
@@ -13,10 +14,6 @@ Collect the Data
     5) Cloudiness
     6) Wind speed
     7) Exploratory Analysis with Visualization
-
-
-
-
 
 Create scatter plots of the weather data for the following comparisons:
 Latitude versus temperature
