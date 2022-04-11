@@ -13,19 +13,22 @@
     4) Humidity
     5) Cloudiness
     6) Wind speed
-    7) Exploratory Analysis with Visualization
 
-Create scatter plots of the weather data for the following comparisons:
-Latitude versus temperature
-Latitude versus humidity
-Latitude versus cloudiness
-Latitude versus wind speed
-Determine the correlations for the following weather data:
-Latitude and temperature
-Latitude and humidity
-Latitude and cloudiness
-Latitude and wind speed
-Create a series of heatmaps using the Google Maps and Places API that showcases the following:
+## B. Exploratory Analysis with Visualization
+
+*   Create scatter plots of the weather data for the following comparisons:
+    1) Latitude versus temperature
+    2) Latitude versus humidity
+    3) Latitude versus cloudiness
+    4) Latitude versus wind speed
+    
+*   Determine the correlations for the following weather data:
+    1) Latitude and temperature
+    2) Latitude and humidity
+    3) Latitude and cloudiness
+    4) Latitude and wind speed
+    
+*   Create a series of heatmaps using the Google Maps and Places API that showcases the following:
 Latitude and temperature
 Latitude and humidity
 Latitude and cloudiness
