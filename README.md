@@ -35,7 +35,7 @@
     4) Latitude and wind speed
 
 ## C. Visualize Travel Data
-Create a heatmap with pop-up markers that can display information on specific cities based on a customer's travel preferences. Complete these steps:
+*   Create a heatmap with pop-up markers that can display information on specific cities based on a customer's travel preferences. Complete these steps:
     1)  Filter the Pandas DataFrame based on user inputs for a minimum and maximum temperature.
     2)  Create a heatmap for the new DataFrame.
     3)  Find a hotel from the cities' coordinates using Google's Maps and Places API, and Search Nearby feature.
