@@ -29,16 +29,15 @@
     4) Latitude and wind speed
     
 *   Create a series of heatmaps using the Google Maps and Places API that showcases the following:
-Latitude and temperature
-Latitude and humidity
-Latitude and cloudiness
-Latitude and wind speed
-Visualize Travel Data
+    1) Latitude and temperature
+    2) Latitude and humidity
+    3) Latitude and cloudiness
+    4) Latitude and wind speed
 
+## C. Visualize Travel Data
 Create a heatmap with pop-up markers that can display information on specific cities based on a customer's travel preferences. Complete these steps:
-
-Filter the Pandas DataFrame based on user inputs for a minimum and maximum temperature.
-Create a heatmap for the new DataFrame.
-Find a hotel from the cities' coordinates using Google's Maps and Places API, and Search Nearby feature.
-Store the name of the first hotel in the DataFrame.
-Add pop-up markers to the heatmap that display information about the city, current maximum temperature, and a hotel in the city.
+    1)  Filter the Pandas DataFrame based on user inputs for a minimum and maximum temperature.
+    2)  Create a heatmap for the new DataFrame.
+    3)  Find a hotel from the cities' coordinates using Google's Maps and Places API, and Search Nearby feature.
+    4)  Store the name of the first hotel in the DataFrame.
+    5)  Add pop-up markers to the heatmap that display information about the city, current maximum temperature, and a hotel in the city.
